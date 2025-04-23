@@ -1,0 +1,85 @@
+/* Resetando margens e paddings */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Definindo a fonte base */
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #ffffff;
+    color: #333;
+    padding: 20px;
+  }
+  
+  /* Container principal */
+  .inicio {
+    text-align: center;
+    padding: 50px 20px;
+    opacity: 0; /* Começa invisível */
+    animation: fadeIn 1s forwards; /* Animação de fade-in */
+  }
+  
+  /* Animação de fade-in para o conteúdo */
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+      transform: translateY(30px); /* Desliza para cima */
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  /* Estilos para o logo */
+  .logo {
+    max-width: 300px;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  /* Estilos para o texto de descrição */
+  .descricao {
+    font-size: 18px;
+    color: #555;
+    margin-bottom: 30px;
+    animation: fadeIn 1.5s ease-in-out; /* Animação para o fade-in da descrição */
+  }
+  
+  /* Estilos para o botão "Acessar Catálogo" */
+  .btn-catalogo {
+    display: inline-block;
+    padding: 12px 25px;
+    background-color: #007BFF; /* Azul da marca */
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    border-radius: 5px;
+    transition: background-color 0.3s, transform 0.3s; /* Transição suave */
+    margin-top: 20px; /* Espaço entre o texto e o botão */
+    border: none; /* Remover borda */
+  }
+  
+  /* Efeito de hover para o botão */
+  .btn-catalogo:hover {
+    background-color: #0056b3; /* Azul mais escuro no hover */
+    transform: scale(1.1); /* Aumenta o tamanho do botão ao passar o mouse */
+  }
+  
+  /* Rodapé */
+  footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 14px;
+    color: #777;
+    padding: 10px 0;
+    clear: both; /* Garante que o rodapé ficará abaixo de outros elementos */
+  }
+  
+  footer p {
+    margin: 10px 0;
+  }
+  

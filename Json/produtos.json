@@ -1,0 +1,32 @@
+{
+  "automotivo": [
+    {
+      "nome": "Sintra",
+      "descricao": "Descrição",
+      "imagem": "front-end/assets/images/produtos/sintra.jpg"
+    },
+    {
+      "nome": "Pano Micro-Fibra",
+      "descricao": "Descrição",
+      "imagem": "front-end/assets/images/produtos/pano-microfibra.jpg"
+    },
+    {
+      "nome": "Teste",
+      "descricao": "Descrição",
+      "imagem": "front-end/assets/images/produtos/pano-microfibra.jpg"
+    }
+
+  ],
+  "limpeza": [
+    {
+      "nome": "Sabão",
+      "descricao": "Descrição",
+      "imagem": "front-end/assets/images/produtos/sabao.jpg"
+    },
+    {
+      "nome": "Desinfetante",
+      "descricao": "Descrição",
+      "imagem": "front-end/assets/images/produtos/desinfetante.jpg"
+    }
+  ]
+}

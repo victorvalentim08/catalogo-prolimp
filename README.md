@@ -1,25 +1,36 @@
-🧼 Catálogo ProLimp
-O Catálogo ProLimp é um site institucional desenvolvido com foco na apresentação dos produtos de limpeza automotiva e doméstica da loja ProLimp Soluções em Limpeza, localizada em Pacatuba/CE.
-Foi criado como projeto prático de desenvolvimento web utilizando HTML, CSS e JavaScript.
+# 🧼​​ Catálogo ProLimp
 
-🧩 Ele tem como objetivo servir como vitrine digital para facilitar a navegação entre as categorias e aumentar o alcance dos produtos comercializados pela loja.
+O **Catálogo ProLimp** é um site institucional desenvolvido com foco na apresentação dos produtos de limpeza automotiva e doméstica da loja *ProLimp Soluções em Limpeza*, localizada em Pacatuba/CE.  
+Foi criado como projeto prático de desenvolvimento web utilizando **HTML**, **CSS** e **JavaScript**.
 
-🌐 Demonstração
-👉 Acesse o site aqui
+🧩 O site serve como vitrine digital para facilitar a navegação entre as categorias e aumentar o alcance dos produtos comercializados pela loja.
 
-🛠️ Tecnologias Utilizadas
-HTML5
+---
 
-CSS3
+## 🌐 Demonstração  
+👉 [Acesse o site aqui](https://victorvalentim08.github.io/catalogo-prolimp/)
 
-JavaScript
+---
 
-Git e GitHub
+## 🛠️ Tecnologias Utilizadas  
+- HTML5  
+- CSS3  
+- JavaScript  
+- Git & GitHub
 
-👥 Integrantes
+---
+
+## 👥 Integrantes  
 Este projeto foi desenvolvido por:
 
-Victor Valentim
+- Victor Valentim
 
-📄 Licença
+---
+
+## 📄 Licença  
+Este projeto é de uso livre para fins educacionais.  
+Todo o código foi desenvolvido manualmente com base nas necessidades do cliente, sem uso de templates prontos.
+
+---
+
 Este projeto é de uso livre para fins educacionais e foi criado sem o uso de templates prontos. Todo o código foi desenvolvido manualmente com base nas necessidades do cliente.
